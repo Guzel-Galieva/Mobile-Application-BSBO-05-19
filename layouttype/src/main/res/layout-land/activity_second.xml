@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <EditText
+            android:id="@+id/editTextTextPersonName3"
+            android:layout_width="344dp"
+            android:layout_height="match_parent"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="new life for mirea activity" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <Button
+            android:id="@+id/button28"
+            android:layout_width="388dp"
+            android:layout_height="match_parent"
+            android:text="FIRST" />
+
+        <Button
+            android:id="@+id/button29"
+            android:layout_width="344dp"
+            android:layout_height="70dp"
+            android:text="SECOND" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <Button
+            android:id="@+id/button30"
+            android:layout_width="372dp"
+            android:layout_height="match_parent"
+            android:text="THIRD" />
+
+        <Button
+            android:id="@+id/button31"
+            android:layout_width="wrap_content"
+            android:layout_height="77dp"
+            android:text="FORTH" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <Button
+            android:id="@+id/button32"
+            android:layout_width="390dp"
+            android:layout_height="72dp"
+            android:text="FIFTH" />
+
+        <Button
+            android:id="@+id/button33"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="SIXTH" />
+    </TableRow>
+
+</TableLayout>

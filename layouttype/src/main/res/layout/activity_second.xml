@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="clip_vertical"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="new life for mirea activity" />
+
+    <Button
+        android:id="@+id/button17"
+        android:layout_width="match_parent"
+        android:layout_height="108dp"
+        android:text="FIRST" />
+
+    <Button
+        android:id="@+id/button23"
+        android:layout_width="match_parent"
+        android:layout_height="108dp"
+        android:text="SECOND" />
+
+    <Button
+        android:id="@+id/button24"
+        android:layout_width="match_parent"
+        android:layout_height="108dp"
+        android:text="THIRD" />
+
+    <Button
+        android:id="@+id/button25"
+        android:layout_width="match_parent"
+        android:layout_height="108dp"
+        android:text="FORTH" />
+
+    <Button
+        android:id="@+id/button26"
+        android:layout_width="match_parent"
+        android:layout_height="108dp"
+        android:text="FIFTH" />
+
+    <Button
+        android:id="@+id/button27"
+        android:layout_width="match_parent"
+        android:layout_height="108dp"
+        android:text="SIXTH" />
+
+</LinearLayout>
